@@ -38,20 +38,6 @@ IVORY-Jewellery-Website/
 └── README.md
 ```
 
-## 🚀 How to Run the Project
-
-1. Clone this repository:
-
-   ```bash
-   git clone <your-repository-url>
-   ```
-
-2. Open the project folder in Visual Studio Code.
-
-3. Ensure `index.html` and `style.css` are in the same directory.
-
-4. Open `index.html` in your browser, or run it using the Live Server extension in VS Code.
-
 ## 🎯 Project Objective
 
 The objective of this project was to design a visually attractive jewellery brand website using HTML and CSS. It helped develop practical skills in webpage structuring, CSS styling, layout design, image handling, and hover-based interactions.
